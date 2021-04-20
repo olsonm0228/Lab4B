@@ -1,0 +1,14 @@
+C:\Users\feoni\source\repos\Lab4B\Lab4B\bin\Debug\netstandard2.0\Lab4B.deps.json
+C:\Users\feoni\source\repos\Lab4B\Lab4B\bin\Debug\netstandard2.0\Lab4B.dll
+C:\Users\feoni\source\repos\Lab4B\Lab4B\bin\Debug\netstandard2.0\ref\Lab4B.dll
+C:\Users\feoni\source\repos\Lab4B\Lab4B\bin\Debug\netstandard2.0\Lab4B.pdb
+C:\Users\feoni\source\repos\Lab4B\Lab4B\obj\Debug\netstandard2.0\Lab4B.csprojAssemblyReference.cache
+C:\Users\feoni\source\repos\Lab4B\Lab4B\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\feoni\source\repos\Lab4B\Lab4B\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\feoni\source\repos\Lab4B\Lab4B\obj\Debug\netstandard2.0\Lab4B.AssemblyInfoInputs.cache
+C:\Users\feoni\source\repos\Lab4B\Lab4B\obj\Debug\netstandard2.0\Lab4B.AssemblyInfo.cs
+C:\Users\feoni\source\repos\Lab4B\Lab4B\obj\Debug\netstandard2.0\Lab4B.csproj.CoreCompileInputs.cache
+C:\Users\feoni\source\repos\Lab4B\Lab4B\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\feoni\source\repos\Lab4B\Lab4B\obj\Debug\netstandard2.0\Lab4B.dll
+C:\Users\feoni\source\repos\Lab4B\Lab4B\obj\Debug\netstandard2.0\ref\Lab4B.dll
+C:\Users\feoni\source\repos\Lab4B\Lab4B\obj\Debug\netstandard2.0\Lab4B.pdb

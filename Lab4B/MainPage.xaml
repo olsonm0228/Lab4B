@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab4B.MainPage">
+    <ContentPage.Resources>
+        
+    </ContentPage.Resources>
+
+    <StackLayout>
+        <Label Text="This is using styles from App.xaml" />
+
+        <Entry Placeholder="Entry" VerticalOptions="CenterAndExpand" IsPassword="True" MaxLength="10"/>
+        
+        <Editor Placeholder="Editor" VerticalOptions="CenterAndExpand" AutoSize="TextChanges" TextColor="Blue"/>
+
+        <Button Text="Click Me" Clicked="Button_Clicked"/>
+        
+        <Label Text="Data Binding"
+               BindingContext="{x:Reference Name=slider}"
+               Rotation="{Binding Path=Value}"
+               FontAttributes="Bold"
+               FontSize="Large"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+
+        <Slider x:Name="slider"
+                Maximum="360"
+                VerticalOptions="CenterAndExpand" />
+
+        <Label BindingContext="{x:Reference slider}"
+               Text="{Binding Value, StringFormat='The angle is {0:F0} degrees'}"
+               FontAttributes="Bold"
+               FontSize="Large"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+        
+
+
+    </StackLayout>
+
+</ContentPage>
